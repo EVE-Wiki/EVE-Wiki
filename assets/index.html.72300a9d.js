@@ -1,0 +1,1 @@
+import{o as e,c as r}from"./app.494e5c3f.js";import{_ as c}from"./plugin-vue_export-helper.21dcd24c.js";const o={};function t(n,s){return e(),r("p",null,"'# Hello VuePress'")}var _=c(o,[["render",t]]);export{_ as default};

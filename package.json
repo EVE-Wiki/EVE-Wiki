@@ -1,0 +1,14 @@
+{
+  "name": "eve-wiki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/EVE-Wiki/EVE-Wiki.git",
+  "author": "Ariel <ArielHeleneto@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  },"scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
